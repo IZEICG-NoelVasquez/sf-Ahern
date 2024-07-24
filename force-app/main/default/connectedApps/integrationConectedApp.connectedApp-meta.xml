@@ -4,7 +4,7 @@
     <label>integrationConectedApp</label>
     <oauthConfig>
         <callbackUrl>https://test.salesforce.com/</callbackUrl>
-        <certificate>MIID8TCCAtmgAwIBAgIUboQqhMO8lK71kmn2Bi+OiAWVxlUwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAk1YMRMwEQYDVQQIDApOdWV2byBMZW9uMRMwEQYDVQQHDApOdWV2byBMZW9uMQ4wDAYDVQQKDAVKb21hcjEOMAwGA1UECwwFSm9tYXIxDjAMBgNVBAMMBUpvbWFyMR0wGwYJKoZIhvcNAQkBFg5jcm1AaXplaWNnLmNvbTAgFw0yMzEyMTgxOTQ4MjRaGA8yMTIzMTEyNDE5NDgyNFowgYYxCzAJBgNVBAYTAk1YMRMwEQYDVQQIDApOdWV2byBMZW9uMRMwEQYDVQQHDApOdWV2byBMZW9uMQ4wDAYDVQQKDAVKb21hcjEOMAwGA1UECwwFSm9tYXIxDjAMBgNVBAMMBUpvbWFyMR0wGwYJKoZIhvcNAQkBFg5jcm1AaXplaWNnLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOp3Bf2XiSp8FzdoQS5ryBV2Tg6JOh5Gu55tDzB33L120bpjqTo1wYgm5/eBYSkjOR92gqj7THzyaDUqags+5unYmt3wIhACzQ/syTjI5iCiSUrUwO6jrknX5/Cnr0NmnZenEHwC0D18qSiHyf9/awwFCID1dK57nw/psLbmC6O8G4CN9xT0UXzFGGXrhRQfcMCwCUJQMaabbv8/1WAkMgNcO9p0mCsU1eWLKSLCntL1i/Fs/IzyWksdiEyIfodjv6LNPF1HqbMG73+RvBZn1qcD0/AALNhM8zpmXoUrlNELe2eKdMDgQKESbauJfEKF3QZaitfb7cihSvYUdgPCHQMCAwEAAaNTMFEwHQYDVR0OBBYEFPeOSrCrdmR0vLLhASSDQyTsfoMwMB8GA1UdIwQYMBaAFPeOSrCrdmR0vLLhASSDQyTsfoMwMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAGtPLTbNkYV0IeOzGlyCXGxTmR/cZc6X4W3nM9OgwVDeQie9DSf7lGL+JlzkSJeqZjrLLnw4AGjDBAV/RgyaucircI04NOneSapT8uPOh2z2Ty4Ea4dIiH09JccJQsPDuV3fsNqEDv2Mvd5uqOVE3/f+8bbY6Wj9j8RN9b1p+/3YpDY5ZkCQfKj94RoIS+e9lEvgy7bCBXis6ZIoOC67Ug32lTPWQcThWjo2YfSeh+9sg+aJa1hfYlkF3TjbeAKK6zUj+K0v/rspxqbCHr8CPCjjVR9Okq0MkB7VBEeL9hWtVvNLAJI5v2eOQOjyaoiFqSxDEl+nmKbShn+CNWuScJU=</certificate>
+        <certificate>MIID7zCCAtegAwIBAgIUaVsLOZ+LiARnqhDkxNd+2d76wz4wDQYJKoZIhvcNAQELBQAwgYUxCzAJBgNVBAYTAk1YMRMwEQYDVQQIDApOVUVWTyBMRU9OMRIwEAYDVQQHDAlNT05URVJSRVkxDjAMBgNVBAoMBUFIRVJOMQ4wDAYDVQQLDAVBSEVSTjEOMAwGA1UEAwwFQUhFUk4xHTAbBgkqhkiG9w0BCQEWDmNybUBpemVpY2cuY29tMCAXDTI0MDcwMzIwNTg1MVoYDzIxMjQwNjA5MjA1ODUxWjCBhTELMAkGA1UEBhMCTVgxEzARBgNVBAgMCk5VRVZPIExFT04xEjAQBgNVBAcMCU1PTlRFUlJFWTEOMAwGA1UECgwFQUhFUk4xDjAMBgNVBAsMBUFIRVJOMQ4wDAYDVQQDDAVBSEVSTjEdMBsGCSqGSIb3DQEJARYOY3JtQGl6ZWljZy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCK5TNz+6+e+5bI/gqOOK5q1o0JpQTMm+mmT8pLlLnFC6wHCk/ybDU4/QdsdE2/72FtHRRNw7Zjq5XpTaA0mRBQKlJ47KT5aUgx8/sRaBDNofRWlL3tayUXQLOOQrL946sAuGy9Dim1PAzhAN8Ia7kKKECBfDldgYzD3/+OW4YgGsFRbrkwkjJvQT+eTSx1Q6ebpSk3Ebiads8znQGiduMYkQjfdDLeQc0xFZpAcjaNJzY5uypBY9f5o5+5h3GrCMSAKtjOYXIOc+RBjImWsvu5754CIoHx9QsYyO7Iimnu5aktdaP5sYsUxtQAePsDTpR5gWAHSu3zZKVMJs6aL79hAgMBAAGjUzBRMB0GA1UdDgQWBBTELcOn8KqkI9eGaCvdYUx3kRqp1DAfBgNVHSMEGDAWgBTELcOn8KqkI9eGaCvdYUx3kRqp1DAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBCDX+FjMfV7+cQET1sUHvmsegNECH2yMVWioxUhqXOB4beET819dzCyMkYB1CAftnaLViAzJ7FoH2ULJIwzjanqtMAXffGwjoJ+vhNeeO6aqE1BEAIpL+Ym4kV1f2YvdTR+NsXXeF2OBxZb89AapyBFiP6IsGXpg/5Ep4yrTZtrmkBg1//z1s0kup/vGJGjJZqePn8DgAhUwbnHw7aFHrjlMTooayt3aDsmZFSyNusY94PymAWmUf41eojg6ZITS54cKj9rTv7CMJmRBlwU2ABkMkhgqE6UFjrcPKvqcB8TD9hZf6liQcPEYiY3Rgf29KazVdHKqhnPTD2+EaGMwah</certificate>
         <isAdminApproved>true</isAdminApproved>
         <isClientCredentialEnabled>false</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
@@ -13,15 +13,19 @@
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
         <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
         <isPkceRequired>false</isPkceRequired>
+        <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
         <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
         <scopes>Basic</scopes>
         <scopes>Api</scopes>
         <scopes>RefreshToken</scopes>
         <scopes>OpenID</scopes>
     </oauthConfig>
-    <!-- <oauthPolicy>
+    <oauthPolicy>
         <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
         <refreshTokenPolicy>infinite</refreshTokenPolicy>
-    </oauthPolicy> -->
+    </oauthPolicy>
     <profileName>System Administrator</profileName>
 </ConnectedApp>
